@@ -1,0 +1,94 @@
+{
+    "requests": [
+      {
+        "id": "99e2",
+        "name": "Егор Gleb",
+        "phone": "321dsad",
+        "email": "1231dsa",
+        "product": "course-wordpress",
+        "date": "13.01.2024",
+        "status": "inwork"
+      },
+      {
+        "id": "85c8",
+        "name": "Светлана Козырь",
+        "phone": 420773555727,
+        "email": "kozyr@seznam.cz",
+        "product": "course-html",
+        "date": "13.01.2024",
+        "status": "new"
+      },
+      {
+        "id": "dc2f",
+        "name": "Екатерина Похоменко",
+        "phone": 420777554717,
+        "email": "pochomenko@mail.ru",
+        "product": "course-vue",
+        "date": "13.01.2024",
+        "status": "inwork"
+      },
+      {
+        "id": "ff2f",
+        "name": "Роман Веселый",
+        "phone": 420779554747,
+        "email": "ivanova@seznam.cz",
+        "product": "course-js",
+        "date": "14.01.2024",
+        "status": "new"
+      },
+      {
+        "id": "dbca",
+        "name": "Светлана Козырь",
+        "phone": 420773555727,
+        "email": "kozyr@seznam.cz",
+        "product": "course-html",
+        "date": "14.01.2024",
+        "status": "inwork"
+      },
+      {
+        "id": "ac07",
+        "name": "Егор Безруков",
+        "phone": 420772557757,
+        "email": "bezrukov@seznam.cz",
+        "product": "course-wordpress",
+        "date": "14.01.2024",
+        "status": "complete"
+      },
+      {
+        "id": "a766",
+        "name": "Иван Фролов",
+        "phone": 420772551797,
+        "email": "frolov@gmail.com",
+        "product": "course-js",
+        "date": "14.01.2024",
+        "status": "complete"
+      },
+      {
+        "id": "b604",
+        "name": "Роман Веселый",
+        "phone": 420779554747,
+        "email": "vesely@seznam.cz",
+        "product": "course-php",
+        "date": "14.01.2024",
+        "status": "new"
+      },
+      {
+        "id": "fe71",
+        "name": "Екатерина Похоменко",
+        "phone": 420772557757,
+        "email": "frolov@gmail.com",
+        "product": "course-vue",
+        "date": "16.01.2024",
+        "status": "new"
+      },
+      {
+        "id": "5746",
+        "name": "Светлана Козырь",
+        "phone": 420773555727,
+        "email": "kozyr@seznam.cz",
+        "product": "course-html",
+        "date": "16.01.2024",
+        "status": "new"
+      }
+    ]
+  }
